@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidCustomSpinner</string>
+    <string-array name="mode">
+        <item>option0</item>
+        <item>option1</item>
+        <item>option2</item>
+        <item>option3</item>
+        <item>option4</item>
+        <item>option5</item>
+        <item>option6</item>
+        <item>option7</item>
+    </string-array>
+    <string name="prompt">Select Mode</string>
+</resources>
